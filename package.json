@@ -1,18 +1,15 @@
 {
   "name": "movie-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "dFcAjpTQFgoLMzC2VwU",
   "main": "app.js",
-  "type": "module",  
+  "type": "module",
   "scripts": {
-  "dev": "nodemon app.js"
-}
-,
-
+    "dev": "nodemon app.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "dFcAjpTQFgoLMzC2VwU",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
@@ -24,6 +21,7 @@
     "express-session": "^1.0.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.7.1",
+    "movie-project": "file:",
     "uid2": "^1.0.0"
   },
   "devDependencies": {
